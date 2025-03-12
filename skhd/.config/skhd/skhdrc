@@ -90,6 +90,6 @@ alt - e : yabai -m window --toggle split
 # App shortcuts 
 alt - c : open -a 'Visual Studio Code'
 alt - z : open -a 'Zed'
-alt - t : open -a 'Termius'
+alt - t : open -a 'Trae'
 alt - b : open -a 'Brave Browser'
 alt - d : open -a 'DBeaver'

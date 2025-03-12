@@ -83,6 +83,5 @@ yabai -m config layout bsp
 yabai_rule app="Brave Browser" space=1
 yabai_rule app="Zed" space=2
 yabai_rule app="DBeaver" space=3
-yabai_rule app="^iTerm2$" space=^4
-yabai_rule app="Termius" space=^4
+yabai_rule app="Trae" space=4
 yabai_rule app="Code" space=5
