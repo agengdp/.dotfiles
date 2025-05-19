@@ -73,7 +73,7 @@ function yabai_rule {
 }
 
 # Exclude problematic apps from being managed:
-yabai_rule app="^(Software Update|Dictionary|VLC|System Preferences|System Settings|zoom.us|Photo Booth|Archive Utility|App Store|Activity Monitor)$" manage=off
+yabai_rule app="^(Software Update|Dictionary|VLC|System Preferences|System Settings|zoom.us|Photo Booth|Archive Utility|App Store|Activity Monitor|DBeaver)$" manage=off
 yabai_rule label="Finder" app="^Finder$" title="(Co(py|nnect)|Move|Info|Pref)" manage=off
 yabai_rule label="About This Mac" app="System Information" title="About This Mac" manage=off
 
